@@ -1,0 +1,19 @@
+body {
+    background-color: pink;
+}
+
+input {
+
+background-color:lightcyan;
+border: dotted plum;
+
+}
+
+h1 {
+    background-color: antiquewhite;
+}
+
+form {
+    border: solid;
+    padding: 50px;
+}
